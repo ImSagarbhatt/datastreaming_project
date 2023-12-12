@@ -1,0 +1,5 @@
+__pycache__
+env/
+logs/
+airflow.db
+requirements_old.txt
